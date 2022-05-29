@@ -51,7 +51,7 @@ spec:
       environment {
         GIT_CREDS = credentials('github')
         HELM_GIT_REPO_URL = "github.com/bytearchive/rsvpapp-helm-cicd.git"
-        GIT_REPO_EMAIL = riz.plate@gmail.com
+        GIT_REPO_EMAIL = "riz.plate@gmail.com"
         GIT_REPO_BRANCH = "master"
           
        // Update above variables with your user details
