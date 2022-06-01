@@ -29,7 +29,7 @@ spec:
         }
     }
   environment {
-      IMAGE_REPO = "riz.plate@gmail.com/rsvp"
+      IMAGE_REPO = "bytearchive/rsvpapp"
       // Instead of DOCKERHUB_USER, use your Dockerhub name
   }
   stages {
